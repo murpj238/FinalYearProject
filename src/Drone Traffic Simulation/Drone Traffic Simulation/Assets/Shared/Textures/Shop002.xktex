@@ -1,0 +1,7 @@
+!Texture
+Id: 93867c8a-711a-4fc6-914a-fe2f5b218ff2
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../../../DTS/Assets/Textures/ShopTextures/Shop002.PNG
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

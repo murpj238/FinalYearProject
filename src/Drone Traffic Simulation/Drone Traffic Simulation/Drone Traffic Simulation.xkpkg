@@ -1,0 +1,40 @@
+!Package
+Id: 08d86feb-af5c-476d-b3b6-d4df413c90c0
+SerializedVersion: {Assets: 0.0.4}
+Meta:
+    Name: Drone Traffic Simulation
+    Version: 1.0.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: Drone_Traffic_Simulation
+    Dependencies:
+        -   Name: Xenko
+            Version: 2.0.0.2
+            RootAssets: []
+LocalDependencies: []
+Profiles:
+    -   Name: Shared
+        Platform: Shared
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Shared
+            -   Path: Drone Traffic Simulation.Game/Effects
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: b30dba93-bcb6-430d-81da-5e891fe485b7
+                Location: Drone Traffic Simulation.Game/Drone Traffic Simulation.Game.csproj
+                Type: Library
+    -   Name: Windows
+        Platform: Windows
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Windows
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: ff8d6b9b-c5a9-4b82-98c9-a8c39d7a63d6
+                Location: Drone Traffic Simulation.Windows/Drone Traffic Simulation.Windows.csproj
+                Type: Executable
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets: []

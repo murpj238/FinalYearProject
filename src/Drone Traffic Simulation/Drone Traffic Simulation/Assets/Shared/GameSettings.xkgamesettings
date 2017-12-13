@@ -1,0 +1,60 @@
+!GameSettingsAsset
+Id: efcf9134-658f-4bcd-8729-de41d3806a52
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+DefaultScene: 2fd1630d-d58e-4c81-95da-5620f504e9a4:MainScene
+GraphicsCompositor: a95260a5-f24a-4ccf-a499-16f2fd980bfb:GraphicsCompositor
+SplashScreenTexture: null
+SplashScreenColor: {R: 0, G: 0, B: 0, A: 255}
+Defaults:
+    - !SiliconStudio.Xenko.Graphics.RenderingSettings,SiliconStudio.Xenko.Graphics
+        DefaultBackBufferWidth: 1280
+        DefaultBackBufferHeight: 1080
+        AdaptBackBufferToScreen: false
+        DefaultGraphicsProfile: Level_10_0
+        ColorSpace: Linear
+        DisplayOrientation: LandscapeRight
+        PreferredGraphicsPlatform: Default
+    - !SiliconStudio.Xenko.Assets.EditorSettings,SiliconStudio.Xenko.Assets
+        RenderingMode: HDR
+    - !SiliconStudio.Xenko.Assets.Textures.TextureSettings,SiliconStudio.Xenko.Assets
+        TextureQuality: Fast
+    - !SiliconStudio.Xenko.Physics.PhysicsSettings,SiliconStudio.Xenko.Physics
+        Flags: None
+        MaxSubSteps: 1
+        FixedTimeStep: 0.0166666675
+    - !SiliconStudio.Xenko.Audio.AudioEngineSettings,SiliconStudio.Xenko.Audio
+        HrtfSupport: false
+    - !SiliconStudio.Xenko.Navigation.NavigationSettings,SiliconStudio.Xenko.Navigation
+        EnableDynamicNavigationMesh: false
+        IncludedCollisionGroups: AllFilter
+        BuildSettings:
+            CellHeight: 0.2
+            CellSize: 0.3
+            TileSize: 32
+            MinRegionArea: 2
+            RegionMergeArea: 20
+            MaxEdgeLen: 12.0
+            MaxEdgeError: 1.3
+            DetailSamplingDistance: 6.0
+            MaxDetailSamplingError: 1.0
+        Groups:
+            -   Id: 82d6b5ea-a58e-4d24-b486-1bf9cd8d1aca
+                Name: Drones
+                AgentSettings:
+                    Height: 5.0
+                    MaxClimb: 0.25
+                    MaxSlope: {Radians: 1.74532926}
+                    Radius: 0.5
+Overrides: []
+PlatformFilters:
+    - PowerVR SGX 54[0-9]
+    - Adreno \(TM\) 2[0-9][0-9]
+    - Adreno (TM) 320
+    - Adreno (TM) 330
+    - Adreno \(TM\) 4[0-9][0-9]
+    - NVIDIA Tegra
+    - Intel(R) HD Graphics
+    - ^Mali\-4
+    - ^Mali\-T6
+    - ^Mali\-T7

@@ -1,0 +1,14 @@
+!Model
+Id: 40e40c9b-6807-4ece-ac7c-ea6a2addcf35
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../../../../../Downloads/drone.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    e0d30d8c81dd0fb94a05aba2d5494ac8:
+        Name: Material_3
+        MaterialInstance:
+            Material: 9735b4c0-3cb0-4b7a-b815-0b56f424fc17:Models/Drones/Material_3
+Skeleton: 4ba7edc1-25a8-4d5f-b1a3-d585fe0c8c36:Models/Drones/drone Skeleton
+~SourceHashes:
+    224a18d34cce199e40ced05099f9efb1~../../../../../../../../../../../Downloads/drone.fbx: be939f74ec41feea9841a28113cb7378

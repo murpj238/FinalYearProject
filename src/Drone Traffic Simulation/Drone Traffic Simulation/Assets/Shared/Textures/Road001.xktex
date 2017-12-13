@@ -1,0 +1,7 @@
+!Texture
+Id: 36936038-3a9a-403a-bbcf-8ea794e6da52
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../../../DTS/Assets/Textures/GroundTextures/Road001.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

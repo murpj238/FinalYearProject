@@ -1,0 +1,7 @@
+!Texture
+Id: 89414b48-3f80-4002-be1e-b843cc86d0dc
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../../../DTS/Assets/Textures/BuildingTextures/Background001.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

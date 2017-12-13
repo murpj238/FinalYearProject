@@ -1,0 +1,7 @@
+!Texture
+Id: dced3cfa-9622-4ee6-8a2f-e55c9b28a1a6
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../../../../../DTS/Assets/Textures/GroundTextures/Path001.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

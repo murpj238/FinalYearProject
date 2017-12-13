@@ -1,0 +1,11 @@
+!ProceduralModelAsset
+Id: 36504967-6d82-4e24-8ee6-fdf1ab90df28
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Type: !CubeProceduralModel
+    Size: {X: 1.0, Y: 1.0, Z: 1.0}
+    Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+    UvScale: {X: 1.0, Y: 1.0}
+    LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+    MaterialInstance:
+        Material: 2e40949b-b3cc-456d-b2e2-3cca59a69336:Materials/PathMat

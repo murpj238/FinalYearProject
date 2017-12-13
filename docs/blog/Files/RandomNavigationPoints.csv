@@ -1,0 +1,25 @@
+Method Name,Target Point Id,Target Point X,Target Point Z,Current Point Id,Current Point X,Current Point Z
+Create Drone Method,Id: 12a0eccc-2fdd-4f9f-9054-4b28ba001f71,X: 8.98,Z: -456.16,Id: 12a0eccc-2fdd-4f9f-9054-4b28ba001f71,X: 223.98,Z: -131.16
+TestGenerateNavigationPoint,Id: 7d1817f6-2d8b-488a-93de-c775905d603a,X: 488.98,Z: -456.16,Id: 7d1817f6-2d8b-488a-93de-c775905d603a,X: 488.98,Z: -456.16
+Create Drone Method,c265f011-c993-4be1-b31e-c5c44b16583f,488.98,23.84,c265f011-c993-4be1-b31e-c5c44b16583f,208.98,163.84
+TestGenerateNavigationPoint,20bdb695-16f4-41ad-8b0e-d486e2edee43,208.98,-116.16,20bdb695-16f4-41ad-8b0e-d486e2edee43,208.98,-116.16
+Create Drone Method,53404643-7764-48ec-8c1b-19bc83a9a79d,488.98,-316.16,53404643-7764-48ec-8c1b-19bc83a9a79d,503.98,163.84
+Create Drone Method,86fe3108-d9bd-4dca-a9bf-e49de5e009b7,208.98,-316.16,86fe3108-d9bd-4dca-a9bf-e49de5e009b7,-116.02,-471.16
+TestGenerateNavigationPoint,df2ee3c0-ea7f-427f-9fac-9c1cc036da14,-116.02,-456.16,df2ee3c0-ea7f-427f-9fac-9c1cc036da14,148.98,8.84
+Create Drone Method,15edbc1a-12ec-4d10-9149-c61aafc21c26,348.98,148.84,15edbc1a-12ec-4d10-9149-c61aafc21c26,223.98,163.84
+Create Drone Method,e98bf6b1-cfc1-4c7e-813c-04e3ecc882d2,8.98,-191.16,e98bf6b1-cfc1-4c7e-813c-04e3ecc882d2,208.98,-456.16
+Create Drone Method,a29b313f-ff05-4602-9498-e50aad2c8d00,148.98,-316.16,a29b313f-ff05-4602-9498-e50aad2c8d00,223.98,148.84
+TestGenerateNavigationPoint,101f2254-1d33-4b56-a766-90d7f0c31b73,488.98,-471.16,101f2254-1d33-4b56-a766-90d7f0c31b73,363.98,-191.16
+TestGenerateNavigationPoint,894c4b2e-bf7b-4604-b2a1-e30aa06426f5,503.98,-191.16,894c4b2e-bf7b-4604-b2a1-e30aa06426f5,363.98,23.84
+TestGenerateNavigationPoint,e98bf6b1-cfc1-4c7e-813c-04e3ecc882d2,8.98,-191.16,e98bf6b1-cfc1-4c7e-813c-04e3ecc882d2,348.98,-316.16
+TestGenerateNavigationPoint,8f82b9a9-378d-442f-8bc1-72fb4fcb834a,163.98,148.84,8f82b9a9-378d-442f-8bc1-72fb4fcb834a,363.98,-191.16
+TestGenerateNavigationPoint,1da6287f-6a38-4637-b711-58acf4da5578,23.98,-116.16,1da6287f-6a38-4637-b711-58acf4da5578,363.98,-131.16
+Create Drone Method,bc17f599-3a28-4d86-9134-cd0f1048ba14,348.98,-116.16,d6263973-4235-4167-a0c2-ad96875550f1,348.98,8.84
+TestGenerateNavigationPoint,e378a340-b368-4cc1-b412-28ed418a3d24,-131.02,-116.16,e378a340-b368-4cc1-b412-28ed418a3d24,8.98,-176.16
+TestGenerateNavigationPoint,4e247aab-60a2-4133-bea3-79158d12f207,8.98,-176.16,4e247aab-60a2-4133-bea3-79158d12f207,503.98,-316.16
+Create Drone Method,a1f6e6d1-99e0-4a10-ae0b-eee56067d58b,23.98,-176.16,2f79c60e-ab77-4f62-97f9-387698a39a33,223.98,-116.16
+Create Drone Method,c4746135-719d-4bf2-95e2-cc3a884a2011,223.98,163.84,4c6b4e6c-be16-4d3b-a7b6-46692bb6e4a6,488.98,-131.16
+Create Drone Method,c8cb0622-f2cd-4cf7-b0ac-59d92d7dfb98,348.98,-456.16,825c6ce3-bf26-420d-a06a-46685f7a807c,363.98,-116.16
+Create Drone Method,bb3b4a82-3d6e-49d9-8c83-e3585a5f4652,-116.02,-316.16,90169ad3-98dd-45dd-bb5e-c669826e792c,-116.02,-131.16
+Create Drone Method,f016fe92-35c2-4d4c-a178-ac3d5a75c9bb,363.98,163.84,35251a90-a528-441a-a78b-ec5f32b199d9,348.98,-176.16
+Create Drone Method,b959fe15-2b97-4897-8421-420d15668623,488.98,-116.16,0789feea-cff9-481c-bfeb-4fdd9972ccb5,363.98,-471.16

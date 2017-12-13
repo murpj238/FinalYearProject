@@ -1,0 +1,13 @@
+!Skeleton
+Id: 4ba7edc1-25a8-4d5f-b1a3-d585fe0c8c36
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../../../../../Downloads/drone.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Nodes:
+    e0ee9f9eaf8a8d7242e65acd15b7dbc3: {Name: RootNode, Depth: 0}
+    a9f8921425e05a1e73b23880e29e2a90: {Name: Syma X8C_1, Depth: 1}
+    1d5db191df004acc70d9a0a9dc0fd6a5: {Name: Syma X8C_2, Depth: 2}
+    038a4b05c87d901895f0f18afa6a923a: {Name: Null, Depth: 1}
+~SourceHashes:
+    0c1dea7ac7b73c23e4580f79a3739d7e~../../../../../../../../../../../Downloads/drone.fbx: be939f74ec41feea9841a28113cb7378
