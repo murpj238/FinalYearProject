@@ -1,0 +1,34 @@
+# Add files names (and patterns) you want git to ignore here.
+
+# Ignore java .class files.
+*.java
+
+# Ignore compiled C/C++ files.
+*.o
+
+# Ignore everything in the build directory.
+build/
+/src/Drone Traffic Simulation/DAL/*.user
+obj
+bin
+Library
+packages
+/src/Drone Traffic Simulation/Temp
+DroneTrafficSimulation_Data
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Bin
+/src/Drone Traffic Simulation/Drone Traffic Simulation/*.user
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Drone Traffic Simulation.Windows/*.user
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Drone Traffic Simulation.xkpkg.user
+Drone Traffic Simulation.Game.csproj.user
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Drone Traffic Simulation.Game/project.lock.json
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Drone Traffic Simulation.Windows/Resources
+/src/Drone Traffic Simulation/.vs
+*.db
+/docs/blog/images/Thumbs.db
+/src/Drone Traffic Simulation/Drone Traffic Simulation.sln.DotSettings.user
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Cache/data/db/00
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Cache/data/db/01/*
+02
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Cache/data/db
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Cache
+/src/Drone Traffic Simulation/Drone Traffic Simulation/Assets/Shared/*.xkeffectlog
